@@ -13,3 +13,5 @@ Full PCB:
 <img width="336" height="688" alt="Full PCB" src="https://github.com/user-attachments/assets/06b3a4db-90cc-4090-a2fe-405d83a971b6" />
 3D model:
 <img width="788" height="565" alt="Screenshot 2026-05-17 190209" src="https://github.com/user-attachments/assets/f8017135-a3f5-44cc-96e0-d517b623ef28" />
+Also i was too lazy to type the BOM so i imported it into sheets and took a screenshot:
+<img width="749" height="490" alt="image" src="https://github.com/user-attachments/assets/95a37581-7fc7-4ca5-af48-778dd18e4248" />
