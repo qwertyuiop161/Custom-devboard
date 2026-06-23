@@ -47,3 +47,9 @@ BOM
 <br>
 
 <img width="779" height="556" alt="image" src="https://github.com/user-attachments/assets/61fc7daa-a0f3-44cc-a751-01d8aab15667" />
+
+###Bult Board:
+
+Built Board! (sorry for low quality I have a bad camera):
+
+<img width="1280" height="720" alt="WIN_20260622_18_30_54_Pro" src="https://github.com/user-attachments/assets/772317b1-d3ee-43ff-81e0-8c7d32c99425" />
