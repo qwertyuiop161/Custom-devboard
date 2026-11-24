@@ -1,5 +1,8 @@
 ##Description
 
+##THIS WAS MADE WITH A TUTORIAL FROM atomic14, GITHUB HERE: github.com/atomic14, YOUTUBE TUTORIAL USED: https://www.youtube.com/watch?v=enlcWor7sPM
+A large portion of this project was made by atomic14, I used the tutorial and added an addresable RGB and just rerouted a few things, so majority credit to them.
+
 This is a custom devboard made with an ESP32-S3-WROOM-1 module using the preinstalled firmware. It uses a usb controller and a usb C port, with 5 main capacitors and 6 main resistors, along with 3 leds. the back (because im not good enough to have it all one sided YET (still learning (wow double paren (WOW QUAD PAREN)))) hsa an addressable LES with 2 more resistors and another capacitors.
 I choose the ESP chip because of its power compared to arduino, WIFI and bluetooth capability, ease of wiring, and use of use. It has 40 pins, with 30 usable GPIO i think; also just wanted to mention that semicolon was a typo its just kinda funna that im so used to java and C that i accidentally end every sentence in typing with semicolon (even accidentally did iton this before correcting).
 
